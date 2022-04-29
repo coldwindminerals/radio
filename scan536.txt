@@ -1,3 +1,17 @@
 favorite00
 favorite01 : butte - silver bow
+  system00 : state of montana
+    department00 : montana highway patrol
+    department01 : montana transportation
+  system01 : butte - silver bow
+    department00 : butte - silver bow police
+    department01 : butte - silver bow fire
 favorite02 : cascade county
+  system00 : state of montana
+    department00 : montana highway patrol
+    department01 : montana transportation
+  system01 : cascade county
+    department00 : cascade county sheriff
+  system02 : city of great falls
+    department00 : great falls police
+    department01 : great falls fire
